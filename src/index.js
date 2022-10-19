@@ -1,4 +1,4 @@
-
+import "./css/styles.css"
 import {handleCreateNewTodo} from "./controller/handleCreateTodo.js";
 import { toastify } from "./components/toastify.js";
 
